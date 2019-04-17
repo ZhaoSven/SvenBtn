@@ -7,13 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		07E8C22EFBEF3EEBFCEA9445167A19AE /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = 78B8F3FF1F8927BEBAB74166EA43E661 /* ReplaceMe.m */; };
 		1810C92E94AE53D026B6A88A68290461 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */; };
 		33DABC6332C429A790D4D98C255EB4C0 /* Pods-SvenBtn_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = D019C5F53EEE67C1B013E5D81D5655DF /* Pods-SvenBtn_Tests-dummy.m */; };
 		4EC85E8098F9370E610DB1A627CE71A3 /* Pods-SvenBtn_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = D469EDEE1E3979A52D44205D6FE7A63D /* Pods-SvenBtn_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9C5EC38ECFCF8BCB7738F4A756BC8BC5 /* SvenBtn-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = ED1D0AE90A546C9260C0F18FF6DBD0DA /* SvenBtn-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9EE7EED2D153AF6612FDF52609D0EF3E /* SvenBtn-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 98A2D974EA929FB16CBE7FBF1A3E2C54 /* SvenBtn-dummy.m */; };
 		A74897B27CD733D636A0CA485367C438 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */; };
+		C928A997226709ED00536FD9 /* ZSWFirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C928A995226709ED00536FD9 /* ZSWFirstViewController.m */; };
+		C928A998226709ED00536FD9 /* ZSWFirstViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = C928A996226709ED00536FD9 /* ZSWFirstViewController.h */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,13 +40,14 @@
 		5DA5D654EE8FF979CDF4F8B69F6E7E2E /* Pods-SvenBtn_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SvenBtn_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		5F41CD6EE3274B364FE4558940CFC47A /* SvenBtn-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SvenBtn-prefix.pch"; sourceTree = "<group>"; };
 		73EB499F5C66F350F3151C806786A4BB /* SvenBtn.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; path = SvenBtn.podspec; sourceTree = "<group>"; };
-		78B8F3FF1F8927BEBAB74166EA43E661 /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ReplaceMe.m; path = SvenBtn/Classes/ReplaceMe.m; sourceTree = "<group>"; };
 		857D9C8C29044B552B49D831BE6030C9 /* Pods-SvenBtn_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SvenBtn_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		8F643222CB51D212A0EA457522BE2E1A /* SvenBtn.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SvenBtn.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9549D97E6DCB87A4BAA1F3BBD68CB930 /* Pods-SvenBtn_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SvenBtn_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		98A2D974EA929FB16CBE7FBF1A3E2C54 /* SvenBtn-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SvenBtn-dummy.m"; sourceTree = "<group>"; };
 		9CBBBF3E55DA4D6DB361A8655ADF05E1 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		C928A995226709ED00536FD9 /* ZSWFirstViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ZSWFirstViewController.m; path = SvenBtn/Classes/ZSWFirstViewController.m; sourceTree = "<group>"; };
+		C928A996226709ED00536FD9 /* ZSWFirstViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ZSWFirstViewController.h; path = SvenBtn/Classes/ZSWFirstViewController.h; sourceTree = "<group>"; };
 		CB79B3070CF012DEB2F2F2DA5453E044 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D019C5F53EEE67C1B013E5D81D5655DF /* Pods-SvenBtn_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-SvenBtn_Tests-dummy.m"; sourceTree = "<group>"; };
 		D469EDEE1E3979A52D44205D6FE7A63D /* Pods-SvenBtn_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SvenBtn_Tests-umbrella.h"; sourceTree = "<group>"; };
@@ -90,7 +92,8 @@
 		4C545EF586FDABB58AAED0F6C081E2F4 /* SvenBtn */ = {
 			isa = PBXGroup;
 			children = (
-				78B8F3FF1F8927BEBAB74166EA43E661 /* ReplaceMe.m */,
+				C928A996226709ED00536FD9 /* ZSWFirstViewController.h */,
+				C928A995226709ED00536FD9 /* ZSWFirstViewController.m */,
 				8B322E5EF791713EFC588F549A2979C4 /* Pod */,
 				37179AE0994CF48742CC81ED6E802F19 /* Support Files */,
 			);
@@ -186,6 +189,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9C5EC38ECFCF8BCB7738F4A756BC8BC5 /* SvenBtn-umbrella.h in Headers */,
+				C928A998226709ED00536FD9 /* ZSWFirstViewController.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -294,7 +298,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				07E8C22EFBEF3EEBFCEA9445167A19AE /* ReplaceMe.m in Sources */,
+				C928A997226709ED00536FD9 /* ZSWFirstViewController.m in Sources */,
 				9EE7EED2D153AF6612FDF52609D0EF3E /* SvenBtn-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
