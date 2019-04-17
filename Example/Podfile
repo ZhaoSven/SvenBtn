@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SvenBtn_Tests' do
+  pod 'SvenBtn', :path => '../'
+  
+  
+end
