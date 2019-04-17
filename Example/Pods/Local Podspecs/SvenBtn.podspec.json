@@ -1,0 +1,22 @@
+{
+  "name": "SvenBtn",
+  "version": "0.1.0",
+  "summary": "A short description of SvenBtn.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/564347938@qq.com/SvenBtn",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "564347938@qq.com": "zhaoshiw@kaisagroup.com"
+  },
+  "source": {
+    "git": "https://github.com/564347938@qq.com/SvenBtn.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SvenBtn/Classes/**/*"
+}

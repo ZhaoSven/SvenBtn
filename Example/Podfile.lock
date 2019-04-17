@@ -1,0 +1,16 @@
+PODS:
+  - SvenBtn (0.1.0)
+
+DEPENDENCIES:
+  - SvenBtn (from `../`)
+
+EXTERNAL SOURCES:
+  SvenBtn:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SvenBtn: 4082e7995b3cf726bd00f83942c8b97275a13568
+
+PODFILE CHECKSUM: fa077b88eca5b304cd392d25dfde96819e55504b
+
+COCOAPODS: 1.5.3

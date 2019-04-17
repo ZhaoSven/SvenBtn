@@ -1,0 +1,6 @@
+framework module SvenBtn {
+  umbrella header "SvenBtn-umbrella.h"
+
+  export *
+  module * { export * }
+}
